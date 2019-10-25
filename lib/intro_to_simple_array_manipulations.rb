@@ -30,7 +30,7 @@ def using_insert(array)
   array.insert(4)
 end
 
-def using_uniq()
+def using_uniq(array)
   
 end
 
